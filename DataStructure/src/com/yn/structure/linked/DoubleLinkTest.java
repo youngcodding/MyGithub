@@ -20,8 +20,23 @@ public class DoubleLinkTest {
         link.set(1,"     杜甫");
         link.print(link.first);
 
-        //link.add(0,"杜甫");
+
+
+
+
+
+
+        /* System.out.println("链表长度："+link.size());*/
+
+
+       /* link.print(link.first);
+        System.out.println("***************************");
+        link.set(1,"     杜甫");
+        link.print(link.first);*/
+
+
        /* link.add(4,"杜甫");
         link.print(link.first);*/
+        // link.addFirst("     李白");
     }
 }
