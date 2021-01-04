@@ -1,4 +1,4 @@
-package com.yn.array;
+package com.yn.Arrays;
 
 import java.util.Arrays;
 
